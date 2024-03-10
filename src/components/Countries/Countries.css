@@ -8,3 +8,6 @@
     background-color: bisque;
     color: rgb(0, 0, 0);
 }
+.flag-container img{
+    width: 100px;
+}
