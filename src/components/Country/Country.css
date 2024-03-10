@@ -4,3 +4,11 @@
     border-radius: 15px;
     padding: 10px;
 }
+.visited{
+    background-color: dimgray;
+}
+
+.non-visited:hover{
+    box-shadow: 10px 10px 5px 0px #888888;
+  
+}
